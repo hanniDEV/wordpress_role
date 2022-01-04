@@ -1,0 +1,15 @@
+---
+# defaults file for docker_role
+
+my_network: network1
+mysql_container_name: mysql
+mysql_root_password: toto
+mysql_database: wordpress
+mysql_user: toto
+mysql_password: toto
+mysql_exposed_port: 3306
+mysq_volume: /home/ubuntu/MYSQL
+wordpress_container_name: wordpress
+wordpress_exposed_port: 8080
+wordpress_volume: /home/ubuntu/WORDPRESS
+

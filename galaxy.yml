@@ -1,0 +1,17 @@
+---
+namespace: community
+name: wordpress
+version: 1.0.1
+readme: README.md
+authors:
+  - Yamen Othmani
+description: MYSQL
+license_file: COPYING
+tags:
+  - v1
+repository: 
+documentation: 
+homepage: 
+issues:
+build_ignore:
+  - .gitignore

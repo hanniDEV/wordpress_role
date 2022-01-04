@@ -9,9 +9,9 @@ description: MYSQL
 license_file: COPYING
 tags:
   - v1
-repository: 
-documentation: 
-homepage: 
-issues:
-build_ignore:
+repository: https://github.com/hanniDEV/wordpress_role.git
+documentation: https://github.com/hanniDEV/wordpress_role.git
+homepage: https://github.com/hanniDEV/wordpress_role.git
+issues: https://github.com/hanniDEV/wordpress_role.git
+build_ignore: https://github.com/hanniDEV/wordpress_role.git
   - .gitignore

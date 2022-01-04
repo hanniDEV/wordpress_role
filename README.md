@@ -8,7 +8,6 @@ Requirements
 
 Using the module docker_container.
 
-
 Example Playbook
 ----------------
 
@@ -20,3 +19,4 @@ Including an example of how to use your role (for instance, with variables passe
     roles:
       - wordpress
 
+---------------------------------------------------------
